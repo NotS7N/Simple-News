@@ -12,3 +12,7 @@
 ```bash
 pip install -r requirements.txt
 
+### updates
+
+uh im gonna fix the bug where when you run the script it creates the news.html but the next day u open it, its gonna be the same news since u didnt run it again, ill figure it out stay patient till then (zero views schizo activities)
+
